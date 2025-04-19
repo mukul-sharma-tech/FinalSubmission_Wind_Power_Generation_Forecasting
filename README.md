@@ -52,10 +52,12 @@ This project aims to forecast power generation based on weather conditions using
 ### 1. Clone the Repository:
 ```bash
 git clone https://github.com/your-username/weather-power-forecasting.git
-'''
+```
 ### 2. Install Dependencies:
 Use pip to install the necessary libraries:
+```bash
 pip install pandas numpy scikit-learn matplotlib seaborn
+```
 ### 3. Run the Project:
 -**Jupyter Notebook**: Run the weather_power_forecasting.ipynb for an interactive experience.
 -**Python Scripts**: Alternatively, you can execute individual Python scripts from the src directory.
