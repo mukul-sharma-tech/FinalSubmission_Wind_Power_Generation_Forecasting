@@ -58,10 +58,11 @@ Use pip to install the necessary libraries:
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn
 ```
-### 3. Run the Project:
--**Jupyter Notebook**: Run the weather_power_forecasting.ipynb for an interactive experience.
--**Python Scripts**: Alternatively, you can execute individual Python scripts from the src directory.
 
-##Conclusion
-###This project demonstrates the power of machine learning in predicting power generation based on weather conditions. It provides insights into the key features influencing power output and allows for optimization and forecasting in energy management.
+### 3. Run the Project:
+- **Jupyter Notebook**: Run the weather_power_forecasting.ipynb for an interactive experience.
+- **Python Scripts**: Alternatively, you can execute individual Python scripts from the src directory.
+
+## Conclusion
+### This project demonstrates the power of machine learning in predicting power generation based on weather conditions. It provides insights into the key features influencing power output and allows for optimization and forecasting in energy management.
 
